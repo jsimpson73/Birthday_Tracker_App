@@ -12,7 +12,7 @@ FTP (FileZilla)
 Website builder (Wix, Squarespace, etc.)
 
 
-Access at: https://yourwebsite.com/index.html
+Access at: https://yourwebsite.com/birthdates.html
 
 Option 2: Create a Download Button on Your Site
 Add this HTML to your existing website where you want the download link:
